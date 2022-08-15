@@ -1,2 +1,2 @@
-# directory-logging-and-tracking-application
-DLTA
+# DLTA
+_Directory Logging and Tracking Application_
